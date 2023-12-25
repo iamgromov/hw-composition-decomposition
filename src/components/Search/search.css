@@ -1,0 +1,30 @@
+.search {
+  margin-bottom: 2rem;
+  padding: 15px;
+  border: 1px solid rgb(0, 0, 0, 0.125);
+  border-radius: .5rem;
+  width: 100%;
+}
+
+.search__titles {
+  display: flex;
+  margin-bottom: 0.5rem;
+  gap: 10px;
+}
+
+.search__form {
+  display: flex;
+  height: 2rem;
+}
+
+.search__input {
+  width: 100%;
+  border: 2px solid rgb(255, 187, 0);
+}
+
+.search__btn {
+  width: 4rem;
+  border: none;
+  background-color: rgb(255, 187, 0);
+  cursor: pointer;
+}

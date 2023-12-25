@@ -1,0 +1,17 @@
+.news-container {
+  margin-bottom: 2rem;
+}
+
+.news__titles {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: .5rem;
+}
+
+.news__title {
+  cursor: pointer;
+}
+
+.news__title_active {
+  font-weight: 700;
+}
